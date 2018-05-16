@@ -1,0 +1,8 @@
+node_modules
+libraries
+dist
+!/dist/.gitkeep
+package-lock.json
+log
+.DS_Store
+.vscode
